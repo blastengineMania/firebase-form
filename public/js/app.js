@@ -3,7 +3,6 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebas
 import { connectFunctionsEmulator, getFunctions, httpsCallable } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-functions.js";
 // Firebaseの初期化
 const firebaseConfig = {
-	apiKey: "AIzaSyAawtpQ3JMiKKJyb5puRP_bCiubklKCMOA",
 	authDomain: "blastengine-form.firebaseapp.com",
 	projectId: "blastengine-form",
 	storageBucket: "blastengine-form.appspot.com",
